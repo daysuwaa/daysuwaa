@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Daysuwa</h1>
+<h1 align="center">👋 Hi, I'm Adesuwa, Welcome to my Github🎉</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=14b8a6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Lover+of+Clean+UI+%2B+UX;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Always+learning+and+building" alt="Typing SVG" />
@@ -25,14 +25,6 @@
   <img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
----
-
-### 🔥 Contribution Heat
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daysuwaa&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
