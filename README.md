@@ -28,11 +28,21 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daysuwaa&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysuwaa&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+
+---
+
 ### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=daysuwa&theme=highcontrast&hide_border=true" />
 </p>
+
 
 ---
 
@@ -50,13 +60,6 @@
   </a>
 </p>
 
----
-
-### 🎥 Just for Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
-</p>
 
 ---
 
