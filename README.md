@@ -11,7 +11,7 @@
 - 🎯 Frontend Developer focused on building sleek, performant web apps.
 - 🎨 Passionate about great UI/UX and accessible design.
 - 🌱 Currently exploring: **Next.js 14**, **TypeScript**, **AI tools**, and **Web animations**.
-- 🛠️ Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Git, Figma
+- 🛠️ Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Git
 
 ---
 
@@ -23,17 +23,8 @@
   <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=ff7262" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daysuwa&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysuwa&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
 
 ---
 
@@ -51,10 +42,10 @@
   <a href="https://adesuwa.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourhandle" target="_blank">
+  <a href="[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/adesuwa-aiwerioghene-04538b268/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:adesuwaaiwerioghene12@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
