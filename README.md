@@ -10,7 +10,7 @@
 
 - 🎯 Frontend Developer focused on building sleek, performant web apps.
 - 🎨 Passionate about great UI/UX and accessible design.
-- 🌱 Currently exploring: **Next.js 14**, **TypeScript**, **AI tools**, and **Web animations**.
+- 🌱 Currently exploring: **Next.js 14**, **TypeScript**, Fullstack Apps and **Web animations**.
 - 🛠️ Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Git
 
 ---
@@ -27,6 +27,15 @@
 
 
 ---
+
+### 🔥 Contribution Heat
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daysuwaa&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 
 ### 📊 GitHub Stats
 
