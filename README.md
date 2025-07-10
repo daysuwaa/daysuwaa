@@ -10,7 +10,7 @@
 
 - 🎯 Frontend Developer focused on building sleek, performant web apps.
 - 🎨 Passionate about great UI/UX and accessible design.
-- 🌱 Currently exploring: **Next.js 14**, **TypeScript**, Fullstack Apps and **Web animations**.
+- 🌱 Currently exploring: **Next.js 14**, **TypeScript**, **Fullstack Apps** and **Web animations**.
 - 🛠️ Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Git
 
 ---
@@ -34,14 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daysuwaa&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysuwaa&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daysuwaa&theme=highcontrast&hide_border=true" />
 </p>
 
 
