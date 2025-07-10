@@ -18,7 +18,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="[https://img.shields.io/badge/React-20232A](https://www.google.com/imgres?q=react%20logo&imgurl=https%3A%2F%2Fwww.logo.wine%2Fa%2Flogo%2FReact_(web_framework)%2FReact_(web_framework)-Logo.wine.svg&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FReact_(web_framework)&docid=crXeNQJdfZXSSM&tbnid=SwO5fwTIqoBdNM&vet=12ahUKEwjB3Kuz07KOAxXeZzABHbgaKokQM3oECGUQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwjB3Kuz07KOAxXeZzABHbgaKokQM3oECGUQAA)?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -40,7 +40,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daysuwa&theme=highcontrast&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=daysuwaa&theme=highcontrast&hide_border=true" />
 </p>
 
 
