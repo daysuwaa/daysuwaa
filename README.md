@@ -10,7 +10,6 @@
 
 - 🎯 Frontend Developer focused on building sleek, performant web apps.
 - 🎨 Passionate about great UI/UX and accessible design.
-- 🌱 Currently exploring: **Next.js 14**, **TypeScript**, **Fullstack Apps** and **Web animations**.
 - 🛠️ Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Git
 
 ---
