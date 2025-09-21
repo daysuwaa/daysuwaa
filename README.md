@@ -10,7 +10,7 @@
 
 - 🎯 **Frontend Developer** passionate about sleek, performant, and scalable web apps.  
 - 🎨 I love creating **beautiful UI/UX** that’s accessible and user-focused.  
-- 📚 Currently learning **Redux, Testing (Jest + RTL), and Backend with C#/.NET**.  
+- 📚 Currently learning **Redux Tool Kit, Testing (Jest + RTL), and Backend with C#/.NET**.  
 - 💡 I enjoy **solving problems** and turning ideas into products.  
 - 🌍 Open to **remote opportunities** and global collaborations.  
 
@@ -19,50 +19,44 @@
 ## 🔧 Tech Stack
 
 ### 🖼️ Frameworks
-<p align="center">
+<p align="start">
  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### 📚 Libraries
-<p align="center">
+<p align="start">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
  <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 💻 Languages
-<p align="center">
+<p align="start">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
+### 🗄️ Databases
+<p align="start">
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 ### ☁️ Cloud & Deployment
-<p align="center">
+<p align="start">
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
- <img src="https://img.shields.io/badge/Fly.io-5E54E5?style=for-the-badge&logo=flydotio&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/Fly.io-5E54E5?style=for-the-badge&logo=flydotio&logoColor=white" /> -->
 </p>
 
 ### 🛠️ Tools & Version Control
-<p align="center">
+<p align="start">
  <img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/daysuwaa/stockmate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daysuwaa&repo=stockmate&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/daysuwaa/giftloop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daysuwaa&repo=giftloop&theme=radical&hide_border=true" />
-  </a>
 </p>
 
 ---
