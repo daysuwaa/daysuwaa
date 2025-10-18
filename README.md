@@ -82,13 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysuwaa&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
----
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daysuwaa&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
