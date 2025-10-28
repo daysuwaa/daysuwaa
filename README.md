@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 🎯 **Frontend Developer** passionate about sleek, performant, and scalable web apps.  
-- 🎨 I love creating **beautiful UI/UX** that’s accessible and user-focused.  
-- 📚 Currently learning **Redux Tool Kit, Testing (Jest + RTL), and Backend with C#/.NET**.  
-- 💡 I enjoy **solving problems** and turning ideas into products.  
-- 🌍 Open to **remote opportunities** and global collaborations.  
+- **Frontend Developer** passionate about sleek, performant, and scalable web apps.  
+- I love creating **beautiful UI/UX** that’s accessible and user-focused.  
+- Currently learning **Redux Tool Kit, Testing (Jest + RTL), and Backend with C#/.NET**.  
+- I enjoy **solving problems** and turning ideas into products.  
+- Open to **remote opportunities** and global collaborations.  
 
 ---
 
@@ -100,5 +100,3 @@
 </p>
 
 ---
-
-<p align="center">💡 "Code with purpose, design with empathy, build for people." </p>
