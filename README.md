@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adesuwa! Welcome to my GitHub 🎉</h1>
+<h1 align="center">👋 Hi, I'm Adesuwa! Welcome to my GitHub🎉</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=06b6d4&center=true&vCenter=true&width=600&lines=Frontend+Developer;Clean+UI+%26+UX+Enthusiast;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Always+Learning+%26+Building" alt="Typing SVG" />
