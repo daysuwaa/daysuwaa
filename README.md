@@ -12,7 +12,7 @@
 - I love creating **beautiful UI/UX** that’s accessible and user-focused.  
 - Currently learning Redux Tool Kit, Testing (Vitest + RTL), Next Auth and clean architecture.  
 - I enjoy **solving problems** and turning ideas into products.  
-- Open to **remote opportunities** and global collaborations.  
+- Open to **remote opportunities** and global collaborations
 
 ---
 
