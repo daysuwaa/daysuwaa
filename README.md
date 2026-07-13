@@ -12,7 +12,7 @@
 - I love creating **beautiful UI/UX** that’s accessible and user-focused.  
 - Currently learning Nestjs
 - I enjoy **solving problems** and turning ideas into products.  
-- Open to **remote opportunities** and global collaborations.
+- Open to **remote opportunities** and global collaborations
 
 ---
 
