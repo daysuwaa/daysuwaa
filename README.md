@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me!
 
 - **Software Engineer** passionate about sleek, performant, and scalable web apps.  
 - I love creating **beautiful UI/UX** that’s accessible and user-focused.  
