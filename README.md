@@ -13,8 +13,6 @@
 ## About me
 
 - Software engineer who builds for finance and risk teams, and cares about making software clear enough that people actually use it
-- Acting Engineering Lead at Kachex, leading a small team. Before that, technology assurance at Deloitte
-- Currently learning NestJS
 - Open to remote roles and global collaborations
 
 ---
@@ -22,7 +20,7 @@
 ## Things I've built
 
 - **[Billio](https://billio.daysuwa.dev)**: a subscription tracker for people in Nigeria paying foreign subscriptions by card. It shows costs in Naira and emails you before each charge
-- **Stock Mate**, **Momento**, and a sales forecaster built for a product
+- **Stock Mate**, **Momento**, and a product sales forecaster
 - More at **[daysuwa.dev](https://daysuwa.dev#work)**
 
 ---
