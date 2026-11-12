@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daysuwa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=ff5c9a&center=true&vCenter=true&width=640&lines=Software+engineer+in+Lagos;Consultant+who+codes;React+%7C+Next.js+%7C+TypeScript+%7C+Supabase;I+build+things+people+actually+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=ff5c9a&center=true&vCenter=true&width=640&lines=Software+engineer;Consultant+who+codes;React+%7C+Next.js+%7C+TypeScript+%7C+Supabase;I+build+things+people+actually+use" alt="Typing SVG" />
 </p>
 
 <p align="center">
