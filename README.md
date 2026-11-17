@@ -19,7 +19,7 @@
 
 ## Things I've built
 
-- **[Billio](https://billio.daysuwa.dev)**: a subscription tracker for people in Nigeria paying foreign subscriptions by card. It shows costs in Naira and emails you before each charge
+- **[Billio](https://billio.daysuwa.dev)**: A subscription tracker for people in Nigeria paying foreign subscriptions by card. It shows costs in Naira and emails you before each charge
 - **Stock Mate**, **Momento**, and a product sales forecaster
 - More at **[daysuwa.dev](https://daysuwa.dev#work)**
 
