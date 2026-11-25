@@ -11,7 +11,7 @@
 ---
 
 ## About me
-I’m a full stack engineer based in Lagos. I like taking something from a rough idea to a product people use, from the database to the screen. I’ve built a GoFundMe-style donation platform, a document-signing app, audit and payments software, and Billio, a subscription tracker for Nigerians paying foreign subscriptions by card. I mostly work in React, Next.js, TypeScript, Python and .NET, and I learn whatever a project needs. I’m open to remote roles and global collaborations
+I’m a full stack engineer based in Lagos. I like taking something from a rough idea to a product people use, from the database to the screen. I’ve built a GoFundMe-style donation platform, a document-signing app, audit and payments software, and Billio, a subscription tracker for Nigerians paying foreign subscriptions by card. I mostly work in React, Next.js, TypeScript, Python and .NET, and I learn whatever a project needs. I’m open to remote roles and global collaborations.
 
 ---
 
